@@ -1,0 +1,50 @@
+body {
+  margin: 0 auto;
+  background-color: #55acee;
+}
+
+main {
+  color: #fff;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+main header {
+  padding: 30px 0;
+}
+
+main h2 {
+  padding: 30px 0 20px 0;
+}
+
+main .buttons {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-align: center;
+      align-items: center;
+  justyfy-content: center;
+  margin: 70px 0;
+}
+
+main .buttons button {
+  margin: 30px 0;
+}
+
+main .buttons a {
+  text-decoration: none;
+  -ms-flex-align: center;
+      align-items: center;
+}
+
+main .buttons button, main .buttons a {
+  border: 1px solid #fff;
+  background-color: #55acee;
+  height: 30px;
+  width: 250px;
+  color: #fff;
+  font-size: 18px;
+}
+/*# sourceMappingURL=style.css.map */

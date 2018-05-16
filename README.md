@@ -1,1 +1,1 @@
-https://ewa-k.github.io/Zadanie-12-1/
+ https://ewa-k.github.io/Zadanie-12-2/
